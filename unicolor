@@ -1,1 +1,11 @@
-
+#!/bin/bash
+# this is a simple code for identifying the categorization of iles in unix and linux systems
+# Happy coding!
+echo    White : text file
+echo    Blue: Directory
+echo    Green: Executable or recognized data file
+echo    Sky Blue: Linked file
+echo    Yellow with black background: Device
+echo    Pink: Graphic image file
+echo    Red: Archive file
+echo    Orange with black background: Broken link
